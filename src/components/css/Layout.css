@@ -1,0 +1,27 @@
+#container {
+    width: 90%;
+    height: 500px;
+    background: rgb(247, 236, 137);
+    margin: auto;
+    padding: 10px;
+}
+
+#form {
+    width: 45%;
+    height: 400px;
+    float: left;
+    text-align: left;
+    padding: 15px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    background: white;
+}
+
+#table {
+    margin-left: 45%;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    background: white;
+    background-clip: content-box;
+}
